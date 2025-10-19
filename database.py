@@ -23,4 +23,3 @@ def save_users(tg_id, name, age, phone):
     VALUES (%s, %s, %s, %s''', (tg_id, name, age, phone))
     db.commit()
     db.close()
-
