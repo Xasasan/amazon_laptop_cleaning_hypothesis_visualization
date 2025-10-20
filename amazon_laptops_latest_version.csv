@@ -1,0 +1,221 @@
+,brand,model_name,screen_size(inches),price(₹),ram,storage,cpu_model,operating_system,rating,rating_review,graphics_card_description
+0,HP,HP Laptop,39.6 Centimetres,"48,990",16 GB,512 GB,Core i5,Windows 11 Home,no rating,457 ratings,Integrated
+1,acer,Aspire Lite,15.6 Inches,"39,990",16 GB,512 GB,Core i5-12450H,Windows 11 Home,no rating,547 ratings,Integrated
+2,ASUS,ASUS Vivobook 15,15.6 Inches,"41,990",8 GB,512 GB,Ryzen 7,Windows 11 Home,no rating,43 ratings,Integrated
+3,ASUS,ASUS TUF Gaming A15,15.6 Inches,"61,990",16 GB,no storage,AMD Ryzen 7,Windows 11 Home,no rating,487 ratings,Dedicated
+4,Lenovo,Lenovo 14,14 Inches,"47,990",24 GB,512 GB,Core i5-1235U,Windows 11 Pro,no rating,no rating_review,Integrated
+5,acer,Aspire Lite,15.6 Inches,"40,490",16 GB,512 GB,Core i5,Windows 11 Home,3.7,48 ratings,Integrated
+6,HP,HP Laptop,17.3 Inches,"62,990",16 GB,512 GB,Core i5,Windows 11 Home,3.6,254 ratings,Integrated
+7,HP,HP Laptop,39.6 Centimetres,"35,490",12 GB,512 GB,Core i3 Family,Windows 11 Home,no rating,642 ratings,Integrated
+8,Lenovo,Lenovo 14,14 Inches,"45,658",16 GB,512 GB,Core i5,Windows 11 Home,no rating,no rating_review,Integrated
+9,HP,HP 15,15.6 Inches,"22,900",8 GB,256 GB,Athlon,Windows 11 Home,no rating,4 ratings,Integrated
+10,acer,Aspire Lite,15.6 Inches,"40,490",16 GB,512 GB,Core i5,Windows 11 Home,3.7,48 ratings,Integrated
+11,Apple,"13-inch MacBook Air (M4, 2025)",13.6 Inches,"92,990",16 GB,256 GB,Apple M4,Mac OS,no rating,620 ratings,Integrated
+12,acer,Aspire Lite,15.6 Inches,"27,990",16 GB,512 GB,Others,Windows 11 Home,no rating,"1,787 ratings",Integrated
+13,acer,Aspire 3,15.6 Inches,"19,990",8 GB,256 GB,Celeron N,Windows 11 Home,3.4,643 ratings,Integrated
+14,HP,HP Laptop,39.6 Centimetres,"30,990",8 GB,512 GB,Core i3,Windows 11 Home,no rating,642 ratings,Integrated
+15,ASUS,ASUS Vivobook Go 14,14 Inches,"28,990",8 GB,512 GB,Ryzen 3,Windows 11 Home,no rating,113 ratings,Integrated
+16,ASUS,ASUS Vivobook 16X,16 Inches,"67,990",16 GB,512 GB,Intel Core i7,Windows 11 Home,3.3,12 ratings,Dedicated
+17,Dell,Inspiron,15.6 Inches,"39,990",16 GB,512 GB,Ryzen 5,Windows 11 Home,no rating,79 ratings,Integrated
+18,acer,Aspire Lite,15.6 Inches,"29,990",16 GB,512 GB,Ryzen 5,Windows 11 Home,no rating,"1,787 ratings",Integrated
+19,acer,Aspire Lite,15.6 Inches,"23,990",8 GB,512 GB,Ryzen 3 5300U,Windows 11 Home,no rating,"1,787 ratings",Integrated
+20,Dell,Inspiron,15.6 Inches,"28,990",8 GB,512 GB,Ryzen 3,Windows 11 Home,no rating,122 ratings,Integrated
+21,Dell,Inspiron,15.6 Inches,"54,990",16 GB,1 TB,Core i5,Windows 11 Home,no rating,121 ratings,Integrated
+22,acer,Aspire Lite,15.6 Inches,"40,490",16 GB,512 GB,Core i5,Windows 11 Home,3.7,48 ratings,Integrated
+23,acer,Aspire Lite,15.6 Inches,"39,990",16 GB,512 GB,Core i5-12450H,Windows 11 Home,no rating,547 ratings,Integrated
+24,ASUS,TUF Gaming F15,15.6 Inches,"62,990",,512 GB,AMD Ryzen 7,Windows 11 Home,no rating,487 ratings,Dedicated
+25,Lenovo,Yoga Slim 7,14 Inches,"1,04,990",32 GB,1 TB,Intel Core Ultra 9,Windows 11 Home,no rating,12 ratings,Integrated
+26,acer,Acer ALG,15.6 Inches,"55,990",16 GB,512 GB,Core i5,Windows 11 Home,no rating,172 ratings,Dedicated
+27,ASUS,ASUS Vivobook 15,15.6 Inches,"32,990",8 GB,512 GB,Core i3,Windows 11 Home,no rating,187 ratings,Integrated
+28,acer,Aspire Lite,15.6 Inches,"39,990",16 GB,512 GB,Core i5-12450H,Windows 11 Home,no rating,547 ratings,Integrated
+29,HP,ProBook,14 Inches,"72,400",24 GB,512 GB,Intel Core i5,Windows 11 Pro,no rating,4 ratings,Integrated
+30,no brand,no model_name,no screen_size,649,no ram,no storage,no cpu_model,no operating_system,no rating,"4,094 ratings",no graphics_card_description
+31,FUTOPIA,APEX,14.1 Inches,"16,870",8 GB,512 GB,Celeron N4020,Window Home 11,no rating,73 ratings,Integrated
+32,HP,HP Laptop,39.6 Centimetres,"48,990",16 GB,512 GB,Core i5,Windows 11 Home,no rating,457 ratings,Integrated
+33,Apple,"13-inch MacBook Air (M4, 2025)",13.6 Inches,"90,990",16 GB,256 GB,Apple M4,Mac OS,no rating,620 ratings,Integrated
+34,acer,Aspire Lite,15.6 Inches,"30,990",8 GB,512 GB,Core i3,Windows 11 Home,no rating,503 ratings,Integrated
+35,ASUS,ASUS Vivobook 15,15.6 Inches,"41,990",8 GB,no storage,Ryzen 7,Windows 11 Home,no rating,43 ratings,Integrated
+36,ASUS,ASUS Vivobook 14,14 Inches,"31,690",8 GB,512 GB,Core i3,Windows 11 Home,no rating,413 ratings,Integrated
+37,HP,HP Laptop,39.6 Centimetres,"48,990",16 GB,512 GB,Core i5,Windows 11 Home,no rating,457 ratings,Integrated
+38,Walker,NU14A2,14.1 Inches,"12,190",4 GB,128 GB,Celeron N4020,Windows 11 Home,no rating,179 ratings,Integrated
+39,ASUS,ROG Strix G16,16 Inches,"1,39,990",16 GB,1000 GB,Ryzen 9,Windows 11 Home,no rating,13 ratings,Dedicated
+40,HP,HP Laptop,39.6 Centimetres,"79,990",16 GB,512 GB,Intel Core 7,Windows 11 Home,no rating,3 ratings,Dedicated
+41,ASUS,ASUS Vivobook 16,16 Inches,"52,990",16 GB,512 GB,Snapdragon X,Windows 11 Home,no rating,58 ratings,Integrated
+42,HP,14-he0015QU,35.6 Centimetres,"65,990",16 GB,1 TB,Snapdragon,Windows 11 Home,no rating,46 ratings,Integrated
+43,Apple,MacBook Air,13.6 Inches,"94,990",16 GB,no storage,Apple M2,no operating_system,no rating,8 ratings,no graphics_card_description
+44,acer,Aspire Lite,15.6 Inches,"39,990",16 GB,512 GB,Core i5-12450H,Windows 11 Home,no rating,547 ratings,Integrated
+45,acer,Aspire Lite,15.6 Inches,"40,490",16 GB,512 GB,Core i5,Windows 11 Home,3.7,48 ratings,Integrated
+46,ASUS,ASUS Zenbook 14,14 Inches,"92,990",,1 TB,Intel Core Ultra 5,Windows 11 Home,no rating,68 ratings,Integrated
+47,HP,HP Laptop,15.6 Inches,"59,990",16 GB,1 TB,Intel Core Ultra 5,Windows 11 Home,no rating,"1,645 ratings",Integrated
+48,HP,HP Laptop,39.6 Centimetres,"98,990",16 GB,1 TB,Ryzen 9,Windows 11 Home,no rating,232 ratings,Dedicated
+49,ASUS,ASUS Zenbook 14,14 Inches,"1,15,990",,1 TB,Intel Core Ultra 7,Windows 11 Home,no rating,68 ratings,Integrated
+50,HP,HP Laptop,39.6 Centimetres,"54,990",16 GB,512 GB,Ryzen 7,Windows 11 Home,no rating,"1,375 ratings",Integrated
+51,HP,HP Laptop,39.6 Centimetres,"62,990",16 GB,512 GB,no cpu_model,Windows 11 Home,3.7,401 ratings,Dedicated
+52,acer,Aspire 3,15.6 Inches,"21,990",8 GB,512 GB,Others,Windows 11 Home,3.4,643 ratings,Integrated
+53,Portronics,no model_name,no screen_size,349,no ram,no storage,no cpu_model,no operating_system,no rating,"7,016 ratings",no graphics_card_description
+54,HP,HP Laptop,39.6 Centimetres,"48,990",16 GB,512 GB,Core i5,Windows 11 Home,no rating,457 ratings,Integrated
+55,HP,HP Laptop,39.6 Centimetres,"35,490",12 GB,512 GB,Core i3 Family,Windows 11 Home,no rating,642 ratings,Integrated
+56,Primebook,Primebook 2 Neo 2025,11.6 Inches,"14,990",6 GB,128 GB,MediaTek Helio,PrimeOS 3.0,no rating,313 ratings,Integrated
+57,HP,HP Laptop,15.6 Inches,"50,990",16 GB,512 GB,Core i5,Windows 11 Home,no rating,457 ratings,Integrated
+58,ASUS,ASUS Vivobook S14,14 Inches,"69,990",16 GB,no storage,Intel Core Ultra 5,Windows 11 Home,no rating,28 ratings,Integrated
+59,ASUS,ASUS Vivobook,15.6 Inches,"45,989",16 GB,512 GB,Core i5,Windows 11 Home,no rating,54 ratings,Integrated
+60,Lenovo,V15,15.6 Inches,"25,979",8 GB,512 GB,Athlon,Windows 11,no rating,249 ratings,Dedicated
+61,Lenovo,Chromebook,11.6 Inches,"11,990",4 GB,64 GB,Others,Chrome OS,3.7,57 ratings,Integrated
+62,HP,HP Laptop,39.6 Centimetres,"22,385",8 GB,256 GB,Others,Windows 11,no rating,137 ratings,Integrated
+63,ASUS,ASUS Vivobook 14,14 Inches,"44,990",16 GB,512 GB,Intel Core 5,Windows 11 Home,3.6,20 ratings,Integrated
+64,Apple,"13-inch MacBook Air (M4, 2025)",13.6 Inches,"1,33,990",24 GB,512 GB,Apple M4,Mac OS,no rating,620 ratings,Integrated
+65,Dell,Vostro 3530,15 Inches,"34,990",16 GB,512 GB,Core i3,Windows 11 Home,3.5,93 ratings,Integrated
+66,acer,Aspire Lite,15.6 Inches,"39,990",16 GB,512 GB,Core i5-12450H,Windows 11 Home,no rating,547 ratings,Integrated
+67,acer,Aspire Lite,15.6 Inches,"40,490",16 GB,512 GB,Core i5,Windows 11 Home,3.7,48 ratings,Integrated
+68,Lenovo,ThinkBook 16,16 Inches,"48,990",16 GB,512 GB,Ryzen 7,Windows 11 Home,3.4,27 ratings,Integrated
+69,HP,16-ag1048AU,40.6 Centimetres,"75,990",,512 GB,Ryzen 7,Windows 11 Home,no rating,34 ratings,Integrated
+70,Walker,NU14A1,14.1 Inches,"12,190",4 GB,128 GB,Celeron N4020,Windows 11 Home,no rating,179 ratings,Integrated
+71,HP,HP Gaming Laptop,40.9 Centimetres,"1,27,990",16 GB,1 TB,Intel Core i7,Windows 11 Home,no rating,2 ratings,Dedicated
+72,no brand,no model_name,no screen_size,539,no ram,no storage,no cpu_model,no operating_system,no rating,"11,803 ratings",no graphics_card_description
+73,ASUS,ASUS TUF Gaming F15,15.6 Inches,"92,990",16 GB,512 GB,no cpu_model,Windows 11 Home,no rating,32 ratings,Dedicated
+74,HP,HP 14,14 Inches,"28,990",8 GB,512 GB,Ryzen 5,Windows 11 Pro,3.7,59 ratings,Integrated
+75,ASUS,ASUS Vivobook 15,15.6 Inches,"62,990",16 GB,1 TB,Intel Core i7,Windows 11 Home,3.7,41 ratings,Integrated
+76,HP,HP Laptop,39.6 Centimetres,"48,990",16 GB,512 GB,Core i5,Windows 11 Home,no rating,457 ratings,Integrated
+77,Apple,"13-inch MacBook Air (M4, 2025)",13.6 Inches,"90,990",16 GB,256 GB,Apple M4,Mac OS,no rating,620 ratings,Integrated
+78,Lenovo,IdeaPad Slim 3,15.6 Inches,"45,490",16 GB,512 GB,Core i5,"Windows 11 Home 64, English",no rating,30 ratings,Integrated
+79,GIZGA essentials,no model_name,no screen_size,189,no ram,no storage,no cpu_model,no operating_system,no rating,"26,070 ratings",no graphics_card_description
+80,Lenovo,Tab Plus,11.5 Inches,"14,990",no ram,no storage,no cpu_model,Android,no rating,"1,297 ratings",Integrated
+81,HP,HP Laptop,15.6 Inches,"59,990",16 GB,512 GB,no cpu_model,Windows 11 Home,no rating,84 ratings,Integrated
+82,Dell,Vostro 3530,15 Inches,"34,990",16 GB,512 GB,Core i3,Windows 11 Home,3.5,93 ratings,Integrated
+83,HP,HP Laptop,15.6 Inches,"1,02,990",24 GB,1 TB,Intel Core i7,Windows 11 Home,3.6,66 ratings,Dedicated
+84,ASUS,Vivobook Go 15,15.6 Inches,"28,690",8 GB,512 GB,Ryzen 3,Windows 11 Home,no rating,45 ratings,Integrated
+85,ASUS,ASUS TUF Gaming F16,16 Inches,"99,990",16 GB,1 TB,Intel Core i5,Windows 11 Home,no rating,9 ratings,Dedicated
+86,Dell,Inspiron,15.6 Inches,"49,990",16 GB,512 GB,Core i5,Windows 11 Home,3.4,175 ratings,Integrated
+87,Dell,Dell Laptop,15.6 Inches,"73,990",,1 TB,Core i5,Windows 11 Home,no rating,"1,305 ratings",Dedicated
+88,Apple,"13-inch MacBook Air (M4, 2025)",13.6 Inches,"90,990",16 GB,256 GB,Apple M4,Mac OS,no rating,620 ratings,Integrated
+89,acer,Aspire Lite,15.6 Inches,"39,990",16 GB,512 GB,Core i5-12450H,Windows 11 Home,no rating,547 ratings,Integrated
+90,ASUS,ASUS Vivobook 15,15.6 Inches,"48,990",16 GB,512 GB,Core i5,Windows 11 Home,no rating,357 ratings,Integrated
+91,acer,Travel Lite,14 Inches,"64,880",32 GB,1 TB,Intel Core i7-1355U,Windows 11 Pro,no rating,25 ratings,Integrated
+92,ZEBRONICS,no model_name,no screen_size,189,no ram,no storage,no cpu_model,no operating_system,3.5,"3,524 ratings",no graphics_card_description
+93,Lenovo,Lenovo V15,15.6 Inches,"36,990",16 GB,512 GB,Core i3,Windows 11 Home,3.5,23 ratings,Integrated
+94,acer,Aspire Lite,15.6 Inches,"38,990",16 GB,512 GB,Ryzen 7,Windows 11 Home,no rating,"1,787 ratings",Integrated
+95,HP,HP Gaming Laptop,15.6 Inches,"81,990",16 GB,512 GB,Intel Core i7,Windows 11 Home,3.6,66 ratings,Dedicated
+96,HP,HP Laptop,15.6 Inches,"40,490",,512 GB,Ryzen 5,Windows 11 Home,no rating,"1,375 ratings",Integrated
+97,ASUS,ASUS Vivobook 16,16 Inches,"84,990",16 GB,512 GB,Intel Core 7,Windows 11 Home,no rating,29 ratings,Integrated
+98,acer,Aspire Lite,15.6 Inches,"40,490",16 GB,512 GB,Core i5,Windows 11 Home,3.7,48 ratings,Integrated
+99,HP,HP Laptop,39.6 Centimetres,"48,990",16 GB,512 GB,Core i5,Windows 11 Home,no rating,457 ratings,Integrated
+100,Lenovo,ThinkBook 16,16 Inches,"44,310",16 GB,512 GB,Ryzen 5,Windows 11 Home,3.7,88 ratings,Integrated
+101,acer,Aspire Lite,15.6 Inches,"41,990",16 GB,1 TB,Ryzen 7,Windows 11 Home,no rating,"1,787 ratings",Integrated
+102,Lenovo,IdeaPad 1,15.6 Inches,"25,490",8 GB,512 GB,Celeron,Windows 11 Home,no rating,18 ratings,Integrated
+103,ASUS,ASUS Vivobook 15,15.6 Inches,"52,990",16 GB,1 TB,Core i5,Windows 11 Home,no rating,21 ratings,Integrated
+104,HP,HP Laptop,15.6 Inches,"66,990",16 GB,512 GB,Ryzen 7,Windows 11 Home,no rating,232 ratings,Dedicated
+105,ASUS,ASUS TUF Gaming A16,16 Inches,"86,990",16 GB,1 TB,Ryzen 7,Windows 11 Home,no rating,29 ratings,Dedicated
+106,Dell,Inspiron 15 3530,15.6 Inches,"46,850",16 GB,512 GB,Core i5,Windows 11 Home,no rating,11 ratings,Integrated
+107,HP,HP 15,15.6 Inches,"52,280",32 GB,512 GB,Core i5,Windows 11 Pro,no rating,1 rating,Integrated
+108,Lenovo,IdeaPad Slim 3,15.6 Inches,"45,490",16 GB,512 GB,Core i5,"Windows 11 Home 64, English",no rating,30 ratings,Integrated
+109,Lenovo,LOQ,15.6 Inches,"1,11,990",24 GB,1 TB,AMD Ryzen 7,Windows 11 Home,no rating,no rating_review,Dedicated
+110,Apple,"13-inch MacBook Air (M4, 2025)",13.6 Inches,"90,990",16 GB,256 GB,Apple M4,Mac OS,no rating,620 ratings,Integrated
+111,acer,Aspire Lite,15.6 Inches,"39,990",16 GB,512 GB,Core i5-12450H,Windows 11 Home,no rating,547 ratings,Integrated
+112,MSI,Katana A17 AI,44 Centimetres,"93,990",16 GB,1 TB,Ryzen 9,Windows 11 Home,no rating,54 ratings,Dedicated
+113,Lenovo,IdeaPad Slim 3,15.3 Inches,"66,990",24 GB,1 TB,AMD Ryzen 7,Windows 11 Home,no rating,25 ratings,Integrated
+114,Dell,Inspiron,15.6 Inches,"54,990",16 GB,1 TB,Core i5,Windows 11 Home,no rating,121 ratings,Integrated
+115,no brand,no model_name,no screen_size,896,no ram,no storage,no cpu_model,no operating_system,no rating,"2,258 ratings",no graphics_card_description
+116,THOMSON,no model_name,15.6 Inches,"13,990",,128 GB,,Windows 11,no rating,12 ratings,Intel® UHD Graphics
+117,Lenovo,Lenovo V15 G4,15.6 Inches,"42,490",16 GB,512 GB,Ryzen 7,Windows 11,no rating,206 ratings,Integrated
+118,Sounce,no model_name,no screen_size,89,no ram,no storage,no cpu_model,no operating_system,no rating,"1,970 ratings",no graphics_card_description
+119,ASUS,ASUS TUF Gaming A16,16 Inches,"97,990",32 GB,1 TB,AMD Ryzen 7,Windows 11 Home,no rating,29 ratings,Dedicated
+120,acer,Aspire Lite,15.6 Inches,"40,490",16 GB,512 GB,Core i5,Windows 11 Home,3.7,48 ratings,Integrated
+121,HP,HP Laptop,39.6 Centimetres,"48,990",16 GB,512 GB,Core i5,Windows 11 Home,no rating,457 ratings,Integrated
+122,Lenovo,LOQ,15.6 Inches,"83,990",,512 GB,Ryzen 7,Windows 11 Home,no rating,191 ratings,Dedicated
+123,HP,HP Laptop,39.6 Centimetres,"29,990",8 GB,512 GB,Ryzen 3,Windows,no rating,"1,885 ratings",Integrated
+124,ASUS,ASUS V16,16 Inches,"99,990",16 GB,no storage,Intel Core 7,Windows 11 Home,no rating,no rating_review,Dedicated
+125,ASUS,ASUS Vivobook 16X,16 Inches,"65,990",16 GB,no storage,Intel Core i7,Windows 11 Home,3.3,12 ratings,Integrated
+126,Neopticon,BrowseBook,14.1 Inches,"15,990",8 GB,256 GB,Celeron N4020,Windows 11 Home,3.4,25 ratings,Integrated
+127,HP,HP Laptop,40 Centimetres,"3,09,990",32 GB,1 TB,Intel Core Ultra 9,Windows 11 Home,3.6,7 ratings,Dedicated
+128,Lenovo,IdeaPad Slim 3,no screen_size,"59,990",16 GB,no storage,Others,Windows 11 Home,no rating,249 ratings,Integrated
+129,acer,Aspire 3,14 Inches,"20,990",8 GB,256 GB,Others,Windows 11 Home,3.4,643 ratings,Integrated
+130,Lenovo,IdeaPad,39.6 Centimetres,"45,490",16 GB,512 GB,Core i5 Family,Windows 11,no rating,291 ratings,Integrated
+131,Lenovo,Lenovo V14,14 Inches,"46,990",16 GB,no storage,Core i5,Windows 11 Home,3.6,42 ratings,Integrated
+132,Apple,"13-inch MacBook Air (M4, 2025)",13.6 Inches,"92,990",16 GB,256 GB,Apple M4,Mac OS,no rating,620 ratings,Integrated
+133,acer,Aspire Lite,15.6 Inches,"39,990",16 GB,512 GB,Core i5-12450H,Windows 11 Home,no rating,547 ratings,Integrated
+134,Lenovo,IdeaPad Slim 3,no screen_size,"59,990",16 GB,no storage,Others,Windows 11 Home,no rating,249 ratings,Integrated
+135,HP,HP Laptop,40.6 Centimetres,"68,990",,512 GB,Ryzen 5,Windows 11 Home,no rating,34 ratings,Dedicated
+136,Dell,Dell Laptop,15.6 Inches,"73,990",,1 TB,Core i5,Windows 11 Home,no rating,"1,305 ratings",Dedicated
+137,no brand,no model_name,no screen_size,699,no ram,no storage,no cpu_model,no operating_system,no rating,"2,258 ratings",no graphics_card_description
+138,Lenovo,Lenovo V15 G4,15.6 Inches,"43,990",16 GB,512 GB,Ryzen 7,Windows 11 Home,no rating,119 ratings,Integrated
+139,ASUS,ASUS Vivobook Go 14,14 Inches,"28,990",8 GB,512 GB,Ryzen 3,Windows 11 Home,no rating,113 ratings,Integrated
+140,Lenovo,IdeaPad Slim 3,15 Inches,"34,990",8 GB,512 GB,Intel Core i3,Windows 11 Home,no rating,5 ratings,Integrated
+141,Dell,Inspiron,15.6 Inches,"39,490",8 GB,512 GB,Core i3,Windows 11 Home,no rating,292 ratings,Integrated
+142,acer,Aspire Lite,15.6 Inches,"40,490",16 GB,512 GB,Core i5,Windows 11 Home,3.7,48 ratings,Integrated
+143,HP,HP Laptop,39.6 Centimetres,"48,990",16 GB,512 GB,Core i5,Windows 11 Home,no rating,457 ratings,Integrated
+144,no brand,no model_name,no screen_size,"1,709",no ram,no storage,no cpu_model,no operating_system,3.3,46 ratings,no graphics_card_description
+145,acer,CB315-4H,15.6 Inches,"19,990",8 GB,128 GB,Others,Chrome OS,no rating,184 ratings,Integrated
+146,ZEBRONICS,no model_name,no screen_size,299,no ram,no storage,no cpu_model,Mac OS,3.7,95 ratings,no graphics_card_description
+147,no brand,no model_name,no screen_size,649,no ram,no storage,no cpu_model,no operating_system,no rating,"4,094 ratings",no graphics_card_description
+148,Lenovo,Lenovo V14,14 Inches,"46,990",16 GB,no storage,Core i5,Windows 11 Home,3.6,42 ratings,Integrated
+149,Lenovo,LOQ,15.6,"1,32,490",16 GB,1 TB,Intel Core i7,Windows 11 Home,no rating,3 ratings,Dedicated
+150,ZEBRONICS,,no screen_size,"1,199",no ram,no storage,no cpu_model,no operating_system,3.6,33 ratings,no graphics_card_description
+151,Lenovo,IdeaPad Slim 3,15.3,"57,490",24 GB,1 TB,Intel Core i5,Windows 11 Home,no rating,10 ratings,Integrated
+152,Lenovo,IdeaPad Slim 3,15.3,"54,980",16 GB,no storage,Intel Core 5,Windows 11 Home,3.7,9 ratings,Integrated
+153,ASUS,ASUS Vivobook 16,16 Inches,"90,990",16 GB,512 GB,Ryzen AI,Windows 11 Home,no rating,8 ratings,Integrated
+154,Apple,"13-inch MacBook Air (M4, 2025)",13.6 Inches,"1,15,990",16 GB,512 GB,Apple M4,Mac OS,no rating,620 ratings,Integrated
+155,Apple,MacBook Air,13.6 Inches,"94,990",16 GB,no storage,Apple M2,no operating_system,no rating,8 ratings,no graphics_card_description
+156,Apple,"13-inch MacBook Air (M4, 2025)",13.6 Inches,"92,990",16 GB,256 GB,Apple M4,Mac OS,no rating,620 ratings,Integrated
+157,MSI,Katana 15 HX B14WFK,41 Centimetres,"1,41,649",16 GB,no storage,Intel Core i9,Windows 11 Home,no rating,1 rating,Dedicated
+158,ASUS,ASUS Vivobook 15,15.6 Inches,"62,990",16 GB,1 TB,Intel Core i7,Windows 11 Home,3.7,41 ratings,Integrated
+159,Samsung,Samsung Galaxy Book4,15.6 Inches,"49,500",16 GB,512 GB,Intel Core i5,Windows 11 Home,no rating,96 ratings,Integrated
+160,HP,HP Laptop,39.6 Centimetres,"79,990",16 GB,no storage,Ryzen 7,Windows 11 Home,no rating,232 ratings,Dedicated
+161,Lenovo,IdeaPad Slim,15 Inches,"60,780",16 GB,512 GB,Core i7-13700K,Windows 11 Home,no rating,436 ratings,Integrated
+162,acer,Aspire 3,15.6 Inches,"32,100",24 GB,512 GB,Core i3,Windows 11 Home,no rating,16 ratings,Integrated
+163,acer,Travel Lite,14 Inches,"49,990",32 GB,512 GB,Intel Core 5,Windows 11 Pro,3.5,3 ratings,Integrated
+164,Dell,Dell Laptop,15.6 Inches,"73,990",,1 TB,Core i5,Windows 11 Home,no rating,"1,305 ratings",Dedicated
+165,Dell,Inspiron,15.6 Inches,"54,990",16 GB,1 TB,Core i5,Windows 11 Home,no rating,121 ratings,Integrated
+166,acer,Aspire 3,14 Inches,"39,990",,512 GB,Core i5,Windows 11 Home,no rating,84 ratings,Integrated
+167,Primebook,Primebook 2 Max,15.6 Inches,"19,490",8 GB,256 GB,MediaTek Helio,PrimeOS 3.0,no rating,129 ratings,Integrated
+168,amazon basics,no model_name,no screen_size,269,no ram,no storage,no cpu_model,no operating_system,no rating,"2,823 ratings",no graphics_card_description
+169,HP,HP Laptop,39.6 Centimetres,"48,820",16 GB,512 GB,Core i5,Windows 11,no rating,4 ratings,Integrated
+170,acer,Aspire Go 14,14 Inches,"49,990",16 GB,512 GB,Intel Core Ultra 5,Windows 11 Home,3.6,65 ratings,Integrated
+171,ASUS,ASUS V16,16 Inches,"1,09,990",16 GB,no storage,Intel Core 7,Windows 11 Home,no rating,2 ratings,Dedicated
+172,no brand,no model_name,no screen_size,395,no ram,no storage,no cpu_model,no operating_system,no rating,"2,642 ratings",no graphics_card_description
+173,no brand,no model_name,no screen_size,345,no ram,no storage,no cpu_model,no operating_system,no rating,"2,175 ratings",no graphics_card_description
+174,HP,HP Laptop,39.6 Centimetres,"45,490",16 GB,512 GB,Ryzen 7,Windows 11 Home,no rating,"1,375 ratings",Integrated
+175,HP,HP Laptop,39.6 Centimetres,"62,990",16 GB,512 GB,no cpu_model,Windows 11 Home,3.7,401 ratings,Dedicated
+176,Apple,"13-inch MacBook Air (M4, 2025)",13.6 Inches,"90,990",16 GB,256 GB,Apple M4,Mac OS,no rating,620 ratings,Integrated
+177,Apple,MacBook Air,13.6 Inches,"94,990",16 GB,no storage,Apple M2,no operating_system,no rating,8 ratings,no graphics_card_description
+178,Lenovo,LOQ,15.6,"59,990",,512 GB,Ryzen 5,Windows 11 Home,no rating,72 ratings,Dedicated
+179,no brand,no model_name,no screen_size,345,no ram,no storage,no cpu_model,no operating_system,no rating,"2,175 ratings",no graphics_card_description
+180,HP,HP Laptop,39.6 Centimetres,"62,490",16 GB,512 GB,Intel Core Ultra 5,Windows 11 Home,no rating,"1,645 ratings",Integrated
+181,ASUS,ASUS Vivobook Go 15,15.6 Inches,"37,499",16 GB,no storage,Ryzen 5,Windows 11 Home,no rating,6 ratings,Integrated
+182,Lenovo,IdeaPad,15.6 Inches,"35,220",16 GB,512 GB,Ryzen 5,Windows 11 Home,no rating,472 ratings,Integrated
+183,Arctic Fox,no model_name,no screen_size,549,no ram,no storage,no cpu_model,"Compatible with Windows 8/10/11, Mac OS, iOS 13 and above, android",no rating,"6,006 ratings",no graphics_card_description
+184,Lenovo,IdeaPad 5 2-in-1,14 Inches,"67,990",16 GB,512 GB,no cpu_model,Windows 11 Home,no rating,25 ratings,Integrated
+185,GEONIX,no model_name,no screen_size,199,no ram,no storage,no cpu_model,no operating_system,no rating,56 ratings,no graphics_card_description
+186,HP,HP Laptop,39.6 Centimetres,"48,990",16 GB,512 GB,Core i5,Windows 11 Home,no rating,457 ratings,Integrated
+187,Dell,Inspiron,15.6 Inches,"54,990",16 GB,1 TB,Core i5,Windows 11 Home,no rating,121 ratings,Integrated
+188,boAt,no model_name,no screen_size,"3,999",no ram,no storage,no cpu_model,no operating_system,no rating,352 ratings,no graphics_card_description
+189,Tygot,no model_name,no screen_size,289,no ram,no storage,no cpu_model,no operating_system,no rating,"2,272 ratings",no graphics_card_description
+190,no brand,no model_name,no screen_size,849,no ram,no storage,no cpu_model,no operating_system,no rating,"2,258 ratings",no graphics_card_description
+191,Tukzer,no model_name,no screen_size,113,no ram,no storage,no cpu_model,no operating_system,3.4,807 ratings,no graphics_card_description
+192,ZEBRONICS,no model_name,no screen_size,399,no ram,no storage,no cpu_model,no operating_system,no rating,"1,573 ratings",no graphics_card_description
+193,Tukzer,no model_name,no screen_size,299,no ram,no storage,no cpu_model,no operating_system,no rating,"1,676 ratings",no graphics_card_description
+194,no brand,no model_name,no screen_size,539,no ram,no storage,no cpu_model,no operating_system,no rating,"11,803 ratings",no graphics_card_description
+195,ASUS,ASUS Zenbook 14,14 Inches,"92,990",,1 TB,Intel Core Ultra 5,Windows 11 Home,no rating,68 ratings,Integrated
+196,Lenovo,IdeaPad Slim 3,no screen_size,"59,990",16 GB,no storage,Others,Windows 11 Home,no rating,249 ratings,Integrated
+197,Lenovo,LOQ,15.6,"59,990",,512 GB,Ryzen 5,Windows 11 Home,no rating,72 ratings,Dedicated
+198,Apple,"13-inch MacBook Air (M4, 2025)",13.6 Inches,"92,990",16 GB,256 GB,Apple M4,Mac OS,no rating,620 ratings,Integrated
+199,Apple,MacBook Air,13.6 Inches,"94,990",16 GB,no storage,Apple M2,no operating_system,no rating,8 ratings,no graphics_card_description
+200,amazon basics,no model_name,no screen_size,"1,070",no ram,no storage,no cpu_model,no operating_system,no rating,361 ratings,no graphics_card_description
+201,VANTRO,RS-NCPI-22,no screen_size,"2,400",no ram,no storage,no cpu_model,no operating_system,no rating,"7,262 ratings",no graphics_card_description
+202,Arctic Fox,no model_name,no screen_size,549,no ram,no storage,no cpu_model,"Compatible with Windows 8/10/11, Mac OS, iOS 13 and above, android",no rating,"6,006 ratings",no graphics_card_description
+203,Microsoft,Surface Laptop,13.8 Inches,"1,29,990",16 GB,512 GB,Snapdragon,Windows 11 Home,no rating,3 ratings,Integrated
+204,Amkette,no model_name,no screen_size,799,no ram,no storage,no cpu_model,no operating_system,no rating,"7,159 ratings",no graphics_card_description
+205,ZEBRONICS,no model_name,no screen_size,319,no ram,no storage,no cpu_model,"Linux, Windows 8",no rating,"5,070 ratings",no graphics_card_description
+206,ZEBRONICS,no model_name,no screen_size,299,no ram,no storage,no cpu_model,Mac OS,3.7,95 ratings,no graphics_card_description
+207,Dyazo,no model_name,no screen_size,245,no ram,no storage,no cpu_model,no operating_system,no rating,"2,329 ratings",no graphics_card_description
+208,Lenovo,IdeaPad Slim 3,no screen_size,"59,990",16 GB,no storage,Others,Windows 11 Home,no rating,249 ratings,Integrated
+209,Lenovo,IdeaPad Slim 3,15.6 Inches,"45,490",16 GB,512 GB,Core i5,"Windows 11 Home 64, English",no rating,30 ratings,Integrated
+210,ASUS,ASUS TUF Gaming A15,15.6 Inches,"64,990",16 GB,512 GB,Ryzen 7,Windows 11 Home,3.5,7 ratings,Dedicated
+211,Portronics,no model_name,no screen_size,269,no ram,no storage,no cpu_model,no operating_system,no rating,"1,071 ratings",no graphics_card_description
+212,no brand,no model_name,no screen_size,328,no ram,no storage,no cpu_model,no operating_system,no rating,679 ratings,no graphics_card_description
+213,Dyazo,no model_name,no screen_size,899,no ram,no storage,no cpu_model,no operating_system,no rating,85 ratings,no graphics_card_description
+214,Dell,Inspiron,15.6 Inches,"66,990",16 GB,512 GB,Core i7,Windows 11 Home,no rating,87 ratings,Integrated
+215,Google,Pixelbook Go,13.3 Inches,"64,990",128 GB,128 GB,Core i5-8200Y,Chrome OS,no rating,349 ratings,Integrated
+216,Portronics,no model_name,no screen_size,499,no ram,no storage,no cpu_model,"Linux, Windows 7, Windows XP",no rating,"5,759 ratings",no graphics_card_description
+217,no brand,no model_name,no screen_size,309,no ram,no storage,no cpu_model,no operating_system,no rating,474 ratings,no graphics_card_description
+218,HP,HP Laptop,40.6 Centimetres,"69,990",16 GB,1 TB,Snapdragon X,Windows 11 Home,no rating,no rating_review,Integrated
+219,Lenovo,IdeaPad Slim 3,15.6,"50,990",16 GB,512 GB,Intel Core 5,Windows 11 Home,no rating,8 ratings,Integrated
